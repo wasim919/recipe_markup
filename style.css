@@ -1,0 +1,19 @@
+:root {
+	--main-bg-color: #ffffff;
+}
+
+* {
+	margin: 0;
+	box-sizing: border-box;
+	background-color: var(--main-bg-color);
+	padding: 1.5rem 2rem;
+}
+
+header {
+	font-size: 1.5rem;
+	text-align: center;
+}
+
+h2 {
+	font-size: 1.25rem;
+}
